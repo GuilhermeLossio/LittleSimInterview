@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Convencao.unity
+    guid: e2fbe17c60951554b8ccc5bccce8ff21
+  - enabled: 1
     path: Assets/Scenes/CompetitionScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
